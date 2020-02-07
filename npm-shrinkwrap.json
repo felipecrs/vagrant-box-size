@@ -1,0 +1,28 @@
+{
+    "name": "@runkit/felipecassiors_vagrant-box-size",
+    "version": "0.0.0-master",
+    "dependencies": {
+        "@runkit/runkit_express-endpoint": {
+            "version": "1.0.0",
+            "from": "https://runkit.com/runkit/express-endpoint/1.0.0",
+            "dependencies": {
+                "express": {
+                    "version": "4.14.0",
+                    "from": "https://registry.npmjs.org/express/-/express-4.14.0.tgz"
+                }
+            }
+        },
+        "request": {
+            "version": "2.74.0",
+            "from": "https://registry.npmjs.org/request/-/request-2.74.0.tgz"
+        },
+        "request-promise": {
+            "version": "4.1.1",
+            "from": "https://registry.npmjs.org/request-promise/-/request-promise-4.1.1.tgz"
+        },
+        "cheerio": {
+            "version": "0.22.0",
+            "from": "https://registry.npmjs.org/cheerio/-/cheerio-0.22.0.tgz"
+        }
+    }
+}

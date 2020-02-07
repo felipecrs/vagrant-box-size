@@ -1,0 +1,14 @@
+{
+    "name": "@runkit/felipecassiors_vagrant-box-size",
+    "version": "0.0.0-master",
+    "main": "./lib/vagrant-box-size",
+    "dependencies": {
+        "@runkit/runkit_express-endpoint": "https://runkit.com/runkit/express-endpoint/1.0.0",
+        "request": "2.74.0",
+        "request-promise": "4.1.1",
+        "cheerio": "0.22.0"
+    },
+    "scripts": {
+        "install": "node scripts/install.js"
+    }
+}
