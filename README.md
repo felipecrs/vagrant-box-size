@@ -2,7 +2,7 @@
 
 Provides an endpoint for shields.io, to create a badge with the size of a Vagrant box hosted on Vagrant Cloud.
 
-This project refers to [runkit.com/felipecassiors/vagrant-box-size](runkit.com/felipecassiors/vagrant-box-size).
+This project refers to [runkit.com/felipecassiors/vagrant-box-size](https://runkit.com/felipecassiors/vagrant-box-size).
 
 ## Usage
 
